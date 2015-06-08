@@ -18,6 +18,7 @@ public class Laboratorio_Analisis {
         // TODO code application logic here
         System.out.println("Hola mundo");
         System.out.println("Holamundo numero 2");
+        System.out.println("Te ayudare con tu proyecto");
     }
     
 }
